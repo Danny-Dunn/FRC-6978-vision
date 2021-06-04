@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/inrange.dir/inrange.cpp.o -o inrange  -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_imgcodecs 
